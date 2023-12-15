@@ -13,9 +13,9 @@ public class Main {
     }
 
     if (!flag)
-      System.out.println(num + " is a prime .");
+      System.out.println(num + " is a prime num.");
     else
-      System.out.println(num + " is not a prime .");
+      System.out.println(num + " is not a prime num .");
   }
 }
 
